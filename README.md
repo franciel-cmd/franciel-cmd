@@ -1,4 +1,4 @@
-## Bem vindo a saga de um Trainee, meu nome é Franciel!
+## Prazer, meu nome é Franciel.
 
 - 🔭 Studying - Systems Analysis and Development.
 - 🌱 Currently - Python/Java
