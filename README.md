@@ -1,7 +1,7 @@
 ## Prazer, meu nome é Franciel.
 
 - 🔭 Studying - Systems Analysis and Development.
-- 🌱 Currently - Python/SQL
+- 🌱 Currently - Python | SQL |
 
 ##
 
